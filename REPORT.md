@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Final Report
 
 ## Title
@@ -32,3 +33,18 @@
 
 **Date Completed:** [Add date]
 **Reviewed:** [ ] Yes [ ] No
+=======
+# Report
+
+This is a report document.
+
+## Overview
+
+Add your content here.
+
+## Sections
+
+- Section 1
+- Section 2
+- Section 3
+>>>>>>> origin/main
